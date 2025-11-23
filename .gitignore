@@ -1,2 +1,6 @@
 dummy/
 copy-response-kpk-survey.xlsx
+final/copy-2-response-kpk-survey.xlsx
+inspect_data.py
+update_notebook.py
+verify_aggregation.py
