@@ -1,0 +1,17 @@
+dummy/
+copy-response-kpk-survey.xlsx
+final/copy-2-response-kpk-survey.xlsx
+final/copy-3-response-kpk-survey.xlsx
+final/copy-4-response-kpk-survey.xlsx
+final/copy-5-response-kpk-survey.xlsx
+final/copy-6-response-kpk-survey.xlsx
+final/copy-7-response-kpk-survey.xlsx
+inspect_data.py
+update_notebook.py
+verify_aggregation.py
+outlier/
+outlier/backup.ipynb
+outlier/Kriteria Informan Survey Persepsi Masayrakat terhadap Citra KPK 2025 (2).pdf
+final/outliers_*.xlsx
+.DS_Store
+.gitignorefinal/copy-6-response-kpk-survey.xlsx
